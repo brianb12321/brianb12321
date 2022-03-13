@@ -12,6 +12,12 @@ I am a passionate software developer who wants to change the world through techn
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+## Social Media
+
+| Name                                                                                                               | Link                                                |
+|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | https://www.linkedin.com/in/brian-barnes-b89124212/ |
+
 <!--
 **brianb12321/brianb12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
