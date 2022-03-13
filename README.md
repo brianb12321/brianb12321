@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile! 😊
-> Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul. -- John Muir
+> Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul. - John Muir
 
 I am a passionate software developer who wants to change the world through technology and nature. I have a very well-rounded background in computer programming and information technology. I have worked with desktop programming, web development, and game development.
 
