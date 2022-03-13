@@ -3,7 +3,9 @@
 
 I am a passionate software developer who wants to change the world through technology and nature. I have a very well-rounded background in computer programming and information technology. I have worked with desktop programming, web development, and game development.
 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianb12321)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img alt="Brian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brianb12321" />
+</p>
 
 ## Technologies and Languages
 
