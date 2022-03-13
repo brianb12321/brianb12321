@@ -22,10 +22,7 @@ I am a passionate software developer who wants to change the world through techn
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Social Media
-
-| Name                                                                                                               | Link                                                |
-|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | https://www.linkedin.com/in/brian-barnes-b89124212/ |
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-barnes-b89124212)
 
 <!--
 **brianb12321/brianb12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
