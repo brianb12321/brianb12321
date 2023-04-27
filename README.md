@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! 😊
+# Welcome to my GitHub profile!
 > Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul. - John Muir
 
 Full-stack web developer with experience building scalable and accessible websites used in the Emergency Medical Service and Fire industry.
